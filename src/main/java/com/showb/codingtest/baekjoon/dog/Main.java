@@ -1,4 +1,4 @@
-package com.showb.codingtest.dog;
+package com.showb.codingtest.baekjoon.dog;
 
 public class Main {
     public static void main(String... args) {

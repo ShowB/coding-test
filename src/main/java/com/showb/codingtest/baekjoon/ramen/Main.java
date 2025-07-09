@@ -1,4 +1,4 @@
-package com.showb.codingtest.ramen;
+package com.showb.codingtest.baekjoon.ramen;
 
 import java.util.Scanner;
 

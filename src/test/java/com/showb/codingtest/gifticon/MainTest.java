@@ -1,5 +1,7 @@
 package com.showb.codingtest.gifticon;
 
+import com.showb.codingtest.baekjoon.gifticon.Main;
+
 import java.security.SecureRandom;
 import java.util.StringJoiner;
 

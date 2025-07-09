@@ -1,4 +1,4 @@
-package com.showb.codingtest.receipt;
+package com.showb.codingtest.baekjoon.receipt;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.showb.codingtest.gifticon;
+package com.showb.codingtest.baekjoon.gifticon;
 
 import java.util.Arrays;
 import java.util.Scanner;
